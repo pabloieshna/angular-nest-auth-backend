@@ -31,7 +31,13 @@
 ```bash
 $ npm install
 ```
+añadir archivo .env y agregarle lo siguiente 
+```
+MONGO_URI=mongodb://mongo:aHkFQwXQPuIrnoaqgzJUlttesJKmbOUm@monorail.proxy.rlwy.net:31310
+MONGO_DB_NAME=auth-db
 
+JWT_SEED=ADADASDFAF/$%&$$%!!!AFAS!asdad324
+```
 ## Running the app
 
 ```bash
